@@ -1,0 +1,6 @@
+.Banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/maquillaje.jpg?alt=media&token=4f5a51af-8a29-4a74-a286-03dc350e1880');
+    background-position: top center;
+    background-size: cover;
+    padding: 35% 20% 35% 20%;
+}
